@@ -2,6 +2,7 @@
 
 ## What about this project?
 This is a simple website, created with *HTML*, *CSS* and *JavaScript*. Moreover, I used images from [Pexels](https://www.pexels.com/) and from [Pixabay](https://pixabay.com/it/). It is also responsive, and the fonts are from [Google Fonts](https://fonts.google.com/).
+I've used also [Figma](https://www.figma.com/) to style the name of the Pizzeria.
 
 There are many section into it, where you can find an animated burger-menu, the about section, the products section, the services section and the contact section.
 
